@@ -1,3 +1,3 @@
-CamCam/.vs/CamCam/v14/.suo
-CamCam/WindowsClient/bin/
-CamCam/WindowsClient/obj/
+*.suo
+src/WindowsClient/bin/
+src/WindowsClient/obj/
